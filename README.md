@@ -29,7 +29,7 @@ El conjunto de datos generado está disponible para cualquier persona interesada
 
 El propósito fundamental del proyecto es estimular la investigación y el aprendizaje en el ámbito del análisis de datos y la ciencia de datos. El conjunto de datos puede ser utilizado para entrenar modelos de aprendizaje automático y realizar análisis más profundos sobre el mercado inmobiliario de la ciudad.
 
-_Este proyecto hace parte [Builker](https://github.com/Builker-col)._
+_Este proyecto hace parte [Linemeup]
 
 
 
