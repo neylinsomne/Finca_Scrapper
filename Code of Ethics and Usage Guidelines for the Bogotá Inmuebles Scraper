@@ -1,0 +1,64 @@
+Code of Conduct for Ethical Use of the Scraper
+
+The scraper utilized in the "Bogotá Inmuebles" repository is a potent tool crafted to gather data from the real estate market encompassing various types of residences in Bogotá. When engaging with this repository, it is mandatory to adhere to the following code of conduct:
+
+Legal and Ethical Responsibilities
+
+Legal Compliance:
+
+Employ the scraper in a lawful manner, ensuring strict adherence to all applicable laws and regulations. Avoid involvement in any unlawful activities, including unauthorized access to websites. Always stay informed about the robots.txt file of the target website, which, in this case, is available at "https://www.fincaraiz.com.co/robots.txt."
+Respect Terms of Service:
+
+Always honor the terms of service of the websites from which data is being extracted. If a website imposes specific restrictions or policies concerning data extraction, respect and adjust the scraper accordingly. Additionally, refrain from scraping private information, especially if accessing the information requires logging into an account.
+Speed and Frequency Limitations:
+
+Configure the scraper to operate within reasonable speed and frequency limits. Avoid overloading or negatively impacting the performance of the target websites. Exercise patience with wait times, as this can prevent rate limiting or, in extreme cases, IP blocking by the domain.
+Privacy and Confidentiality
+
+Respect Privacy:
+
+Safeguard the privacy and confidentiality of the collected data. Refrain from sharing personal or confidential information obtained through the scraper without proper consent and necessary safeguards.
+Transparency in Data Collection:
+
+When sharing or publishing data collected with the scraper, provide appropriate attribution and references to the original sources. Do not present the data as your own if obtained through the tool.
+Maintenance and Improvement of the Scraper
+
+Maintain and Improve:
+If you are responsible for developing and maintaining the scraper, commit to regular updates and promptly address any identified issues or bugs. Promote code transparency and facilitate collaboration with other community members to enhance the tool continuously.
+Reporting Issues and Suggestions
+
+Constructive Communication:
+In case of problems or suggestions for improving the scraper, report them constructively in the repository. Participate in open and collaborative discussions to help maintain and improve the quality and efficiency of the scraper.
+Remember, the use of the scraper must be responsible and ethical. By adhering to this code of conduct, you contribute to ensuring the proper use of the tool and maintaining an environment of respect and compliance with the rules in the "Bogotá Apartments" repository.
+
+Código de Conducta para el Uso Ético del Scraper
+
+El scraper empleado en el repositorio "Bogotá Apartments" es una herramienta poderosa diseñada para recopilar datos del mercado inmobiliario de apartamentos en Bogotá. Para garantizar un uso responsable y ético de esta herramienta, es crucial adherirse a este código de conducta:
+
+Responsabilidades Legales y Éticas
+
+Cumplimiento Legal:
+
+Utiliza el scraper de manera legal, asegurando el cumplimiento de todas las leyes y regulaciones aplicables. Evita participar en actividades ilegales, como el acceso no autorizado a sitios web. Mantente actualizado sobre el archivo robots.txt del sitio web de destino, que en este caso está disponible en "https://www.fincaraiz.com.co/robots.txt".
+Respeto a los Términos de Servicio:
+
+Respeta siempre los términos de servicio de los sitios web de los que se extraen datos. Si un sitio impone restricciones o políticas específicas sobre la extracción de datos, respétalas y ajusta el scraper en consecuencia. Además, evita el scraping de información privada, especialmente si el acceso a la información requiere iniciar sesión en una cuenta.
+Limitaciones de Velocidad y Frecuencia:
+
+Configura el scraper para operar dentro de límites razonables de velocidad y frecuencia. Evita sobrecargar o afectar negativamente el rendimiento de los sitios web objetivo. Ten paciencia con los tiempos de espera, ya que esto puede prevenir la limitación de velocidad o, en casos extremos, el bloqueo de IP por el dominio.
+Privacidad y Confidencialidad
+
+Respeto a la Privacidad:
+
+Protege la privacidad y confidencialidad de los datos recopilados. Evita compartir información personal o confidencial obtenida a través del scraper sin el consentimiento adecuado y las salvaguardias necesarias.
+Transparencia en la Recopilación de Datos:
+
+Al compartir o publicar datos recopilados con el scraper, proporciona la atribución adecuada y referencias a las fuentes originales. No presentes los datos como propios si fueron obtenidos a través de la herramienta.
+Mantenimiento y Mejora del Scraper
+
+Actualización y Mantenimiento:
+Si eres responsable del desarrollo y mantenimiento del scraper, comprométete a realizar actualizaciones periódicas y abordar cualquier problema o error identificado de inmediato. Fomenta la transparencia del código y facilita la colaboración con otros miembros de la comunidad para mejorar la herramienta continuamente.
+Reporte de Problemas y Sugerencias
+
+Comunicación Constructiva:
+En caso de problemas o sugerencias para mejorar el scraper, repórtalos de manera constructiva en el repositorio. Participa en discusiones abiertas y colaborativas para ayudar a mantener y mejorar la calidad y eficiencia del scraper.
