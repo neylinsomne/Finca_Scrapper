@@ -18,19 +18,8 @@ La última fecha de scrapeo fue: **30 de Enero de 2024**
   - [Data Source](#data-source)
   - [Datos](#datos)
 
-  - [Licencia](#licencia)
-  - [Créditos](#créditos)
 
-**Datos:**
-- [Datos Procesados](data/processed/)
-    - [Readme de Datos Procesados](data/processed/README.md)
-    - [Apartamentos](data/processed/apartments.csv)
-    - [Imágenes](data/processed/images.csv)
-- [Datos RAW](data/raw/)
-    - [Readme de Datos RAW](data/raw/README.md)
-    - [Apartamentos](https://www.dropbox.com/s/1ly47276dnqqdzp/builker.scrapy_bogota_apartments.json?dl=1)
 
-From **Bogota** co to the world 🌎
 
 ## Descripción
 
