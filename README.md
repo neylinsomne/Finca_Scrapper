@@ -23,12 +23,12 @@ El propósito fundamental del proyecto es estimular la investigación y el apren
 _Este proyecto hace parte [Linemeup]
 
 
-##Cómo usarlo?
+## Cómo usarlo?
 Primero para poder obtener todos los sub-links de las viviendas, debes conectarlo a la biblioteca SELENIUM y en el archivo "links.py", descargando un chromio. Aquí en este link puedes entender cómo
 https://www.youtube.com/watch?v=NB8OceGZGjA&t=1s
 ERROR 403?:
 La página principal primero está cargada dinámicamente asi que Scrappy no va a poder hacerlo por su cuenta, puedes hacerlo con pyppeteer, pero con esto es más facíl hacerlo con Selenium a mi parecer.
 De igual manera tendrás que conectar una función nueva que conecte los links extraidos de la página principal de Finca Raiz.
 
-##¿Por qué no pasar el código completo?
+## ¿Por qué no pasar el código completo?
 Esto es para que más gente pueda tener una plantilla base y lo puedan acomodar a su interes, y obviamente puedan hacerlo de una manera más optima. Al igual estaré cargando rutinarimente archivos json y csv que necesitan manejo.
