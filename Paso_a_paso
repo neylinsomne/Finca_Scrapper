@@ -1,0 +1,18 @@
+1. Crea un "virtual envirorment" usando en tu terminal habiendo seleccionado la carpeta donde quieres usarlo: 
+python -m venv venv
+import scrappy y selenium, descarga un chromio y ponlo al lado de tu carpeta donde tengas el proyecto scrappy después de usar.
+
+2. Comandos después de instalar scrappy:
+
+
+scrapy crawl nombre_araña
+
+venv\Scripts\activate
+
+Scrapy startproject nombre_proyecto
+
+    despues: cd nombre_proyecto
+
+Scrapy shell -s USER_AGENT=" " 'URL'// para hacer trouble shooting y probar si tu selección ccs o xpath son correctas :)
+
+scrapy genspider nombre_araña dominio_inicial 
